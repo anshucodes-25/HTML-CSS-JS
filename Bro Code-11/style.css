@@ -1,0 +1,54 @@
+
+.container{
+    width: 60vw;
+    height: 60vh;
+    border:  2px solid rgb(184, 181, 181);
+    box-shadow: 2px 2px 5px ;
+   
+}
+
+h1{
+    color: rgb(123, 123, 240);
+    text-align: center;
+}
+
+.text{
+    text-align: center;
+}
+
+.text input{
+    width: 170px;
+    height: 30px;
+    padding: 5px 20px;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+
+
+.myText{
+    text-align: center;
+}
+
+.btn{
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+.btn button{
+    padding: 5px 15px;
+    font-size: 1rem;
+    border-radius: 7px;
+    color: white;
+    background-color: red;
+    border: none;
+}
+
+#result{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
