@@ -1,0 +1,50 @@
+body{
+    font-family: sans-serif;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3ff6fa;
+}
+
+.container{
+    width: 320px;
+    background-color: white;
+    text-align: center;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0px 4px 10px  ;
+}
+
+#taskInput{
+    width: 80%;
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    border: 1px solid rgb(73,72,72);
+
+}
+
+button{
+    margin: 5px;
+    padding: 7px 14px;
+    font-size: 16px;
+    border-radius: 9px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+}
+
+button:hover{
+    background-color: #0056b3;
+}
+
+#result{
+    padding: 10px;
+    margin: 8px;
+    text-align: left;
+    margin-top: 15px;
+    font-size: 1.4em;
+    
+}
